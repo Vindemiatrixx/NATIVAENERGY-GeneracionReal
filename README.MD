@@ -5,7 +5,11 @@
 - Dentro de esta sección seleccionar descargar por UNIDAD, escoger la fecha y el formato en tsv.
 
 # TSV:
+- Si no existe un directorio llamado data/, se debe crear en esta misma ruta.
 
+```bash
+mkdir data
+```
 - El tsv descargado debe quedar guardarse o moverse al directorio data/
 - El nombre da un poco lo mismo, porque en el código debe modificarse el nombre del archivo a operar.
 
