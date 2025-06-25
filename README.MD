@@ -39,8 +39,3 @@ df = pd.read_csv(f"data/{archivo}.tsv", sep='\t')
 
 - Dentro de las pipelines de generacion real se debe ejecutar la pipeline de: "Merge_gen_real".
 - Esperar a que termine sin errores y listo, la tabla tendrá los datos.
-
-# Sobre ignore.ipynb
-
-- Por ahora ignorar, es algo que no recuerdo para que lo tengo pero si no lo he borrado es porque debe tener algo que me sirve.
-- No sirve para nada por ahora y tampoco en el futuro para esta implementación.s
